@@ -10,9 +10,9 @@
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-<a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/gmail.svg" height="30" width="40" /></a>
-<a href="https://www.facebook.com/your-facebook-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/facebook.svg" height="30" width="40" /></a>
-<a href="https://github.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/github.svg" height="30" width="40" /></a>
+<a href="mailto:vietanhpham1908@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1CVCeQRJmq/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/facebook.svg" height="30" width="40" /></a>
+<a href="https://github.com/VietAnh-205" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/github.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🔧 Technologies & Tools</h3>
