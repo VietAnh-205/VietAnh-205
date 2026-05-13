@@ -31,5 +31,3 @@
 <a href="https://www.docker.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/docker.svg" alt="docker" height="30" width="40" /></a>
 <a href="https://godotengine.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/godot.svg" alt="godot" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">📈 My Activities</h3>
