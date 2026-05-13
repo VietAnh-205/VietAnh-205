@@ -6,7 +6,8 @@
 - 🎓 Student at [University of Science (VNU-HUS).](https://hus.vnu.edu.vn/)
 - 🌱 Researching in **Deep Learning**, **Medical Imaging**, and **Optimization**.
 - 🔭 Passionate about **Neural Combinatorial Optimization** and **Time Series Forecasting**.
-- 💻 Expertise in building pipelines with **U-Net**, **ResNet50**, and **FastAPI**.
+- 💻 Building ML models & APIs with **U-Net**, **ResNet50**, and **FastAPI**.
+- 🌐 Developing web applications using **Spring Boot** and **React**.
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
@@ -32,10 +33,3 @@
 </p>
 
 <h3 align="left">📈 My Activities</h3>
-
-<picture>
-  <!-- Nhớ thay YOUR_USERNAME bằng username thật của bạn -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
