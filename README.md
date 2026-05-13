@@ -18,10 +18,17 @@
 <h3 align="left">🔧 Technologies & Tools</h3>
 <p align="left">
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/python.svg" alt="python" height="30" width="40" /></a>
-<a href="https://fastapi.tiangolo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="fastapi" height="30" /></a>
+<a href="https://www.java.com/en/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/java.svg" alt="java" height="30" width="40" /></a>
+<a href="https://spring.io/projects/spring-boot" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/spring.svg" alt="spring" height="30" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/javascript.svg" alt="javascript" height="30" width="40" /></a>
+<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/typescript.svg" alt="typescript" height="30" width="40" /></a>
+<a href="https://nodejs.org/en" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/nodejs.svg" alt="nodejs" height="30" width="40" /></a>
+<a href="https://react.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/reactjs.svg" alt="reactjs" height="30" width="40" /></a>
+<a href="https://tailwindcss.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/tailwind.svg" alt="tailwind" height="30" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/html.svg" alt="html" height="30" width="40" /></a>
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/git.svg" alt="git" height="30" width="40" /></a>
 <a href="https://www.docker.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/docker.svg" alt="docker" height="30" width="40" /></a>
-<a href="https://www.latex-project.org/" target="blank"><img align="center" src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white" alt="latex" height="30" /></a>
+<a href="https://godotengine.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/godot.svg" alt="godot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">📈 My Activities</h3>
