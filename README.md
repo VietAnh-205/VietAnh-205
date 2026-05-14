@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Phạm Việt Anh</h1>
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
+<img align="right" alt="Coding" width="360" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjUxZjM5dG13bXVtY2Q4aTN4dWpxN2k3aWQ4cjYxdDRhMnl1a2NpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif">
 
 <h3 align="left">🤖 About me</h3>
 
@@ -22,12 +22,10 @@
 <a href="https://www.java.com/en/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/java.svg" alt="java" height="30" width="40" /></a>
 <a href="https://spring.io/projects/spring-boot" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/spring.svg" alt="spring" height="30" width="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/javascript.svg" alt="javascript" height="30" width="40" /></a>
-<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/typescript.svg" alt="typescript" height="30" width="40" /></a>
 <a href="https://nodejs.org/en" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/nodejs.svg" alt="nodejs" height="30" width="40" /></a>
 <a href="https://react.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/reactjs.svg" alt="reactjs" height="30" width="40" /></a>
 <a href="https://tailwindcss.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/tailwind.svg" alt="tailwind" height="30" width="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/html.svg" alt="html" height="30" width="40" /></a>
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/git.svg" alt="git" height="30" width="40" /></a>
 <a href="https://www.docker.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/docker.svg" alt="docker" height="30" width="40" /></a>
-<a href="https://godotengine.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/godot.svg" alt="godot" height="30" width="40" /></a>
 </p>
