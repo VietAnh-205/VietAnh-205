@@ -14,7 +14,7 @@
 <a href="mailto:vietanhpham1908@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/gmail.svg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1CVCeQRJmq/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/facebook.svg" height="30" width="40" /></a>
 <a href="https://github.com/VietAnh-205" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/github.svg" height="30" width="40" /></a>
-&nbsp;📄 <a href="./CV.pdf">CV</a>
+&nbsp;📄 <a href="CV_AI.pdf">CV</a>
 </p>
 
 <h3 align="left">🔧 Technologies & Tools</h3>
